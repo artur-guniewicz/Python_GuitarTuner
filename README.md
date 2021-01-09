@@ -23,11 +23,12 @@ Readme will change in the future, it is only a draft.
 
 ## So far included:
 * recording.py - allows to record and play sound using microfone input
-* signal_time_plot - creates signal/time plot using recorded sound
-* DFT_plot - creates plot using recorded sound and properties of discrete Fourier transform (DFT)
+* signal_time_plot.py - creates signal/time plot using recorded sound
+* DFT_plot.py - creates plot using recorded sound and properties of discrete Fourier transform (DFT)
+* find_closest_note.py - if the pitch is given it returns the closest note and the corresponding pitch of the closest note
 
 ## In plans:
 * documentation
 * program to depict sine signal
 * simple DFT tuner working in real time
-* more complicated tuner which uses Harmonic Product Spectrum (HPS)
+** (maybe) more complicated tuner which uses Harmonic Product Spectrum (HPS)
