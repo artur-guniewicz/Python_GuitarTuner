@@ -31,4 +31,3 @@ Readme will change in the future, it is only a draft.
 * documentation
 * program to depict sine signal
 * simple DFT tuner working in real time
-** (maybe) more complicated tuner which uses Harmonic Product Spectrum (HPS)
