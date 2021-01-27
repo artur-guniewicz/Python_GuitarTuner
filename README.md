@@ -29,5 +29,4 @@ Readme will change in the future, it is only a draft.
 
 ## In plans:
 * documentation
-* program to depict sine signal
 * simple DFT tuner working in real time
