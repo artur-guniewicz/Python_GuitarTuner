@@ -26,7 +26,7 @@ Readme will change in the future, it is only a draft.
 * signal_time_plot.py - creates signal/time plot using recorded sound
 * DFT_plot.py - creates plot using recorded sound and properties of discrete Fourier transform (DFT)
 * find_closest_note.py - if the pitch is given it returns the closest note and the corresponding pitch of the closest note
+* tuner.py - simple DFT tuner working in real time
 
 ## In plans:
 * documentation
-* simple DFT tuner working in real time
